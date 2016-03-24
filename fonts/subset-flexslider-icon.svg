@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg>
+<metadata>
+Created by FontForge 20120731 at Thu Mar 24 10:44:13 2016
+ By ,,,
+</metadata>
+<defs>
+<font id="flexslider-icon" horiz-adv-x="448" >
+  <font-face 
+    font-family="flexslider-icon"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="448"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="384"
+    descent="-64"
+    bbox="13 -18 259 371"
+    underline-thickness="0"
+    underline-position="0"
+  />
+<missing-glyph 
+ />
+    <glyph glyph-name=".notdef" 
+ />
+    <glyph glyph-name=".null" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="149" 
+ />
+    <glyph glyph-name="uniF001" horiz-adv-x="288" 
+d="M186 -9l-164 163q-9 9 -9 22.5t9 22.5l164 163q9 9 22.5 9t22.5 -9l19 -19q9 -9 9 -22.5t-9 -22.5l-122 -122l122 -121q9 -10 9 -23t-9 -22l-19 -19q-9 -9 -22.5 -9t-22.5 9z" />
+  </font>
+</defs></svg>

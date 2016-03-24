@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg>
+<metadata>
+Created by FontForge 20120731 at Thu Mar 24 10:44:13 2016
+ By ,,,
+</metadata>
+<defs>
+<font id="elegant-theme-line" horiz-adv-x="0" >
+  <font-face 
+    font-family="elegant-theme-line"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="1024"
+    panose-1="0 0 0 0 0 0 0 0 0 0"
+    ascent="960"
+    descent="-64"
+    bbox="0 0 0 0"
+    underline-thickness="0"
+    underline-position="0"
+  />
+<missing-glyph horiz-adv-x="1024" 
+ />
+    <glyph glyph-name=".notdef" horiz-adv-x="1024" 
+ />
+    <glyph glyph-name="glyph1" 
+d="M0 0v0v0v0z" />
+    <glyph glyph-name="glyph2" 
+d="M0 0v0v0v0z" />
+    <glyph glyph-name="glyph3" horiz-adv-x="512" 
+d="M0 0v0v0v0z" />
+  </font>
+</defs></svg>

@@ -2,11 +2,11 @@
   +transition(.3s)
 
 html
-  font: $main-font-size/$main-line-height $main-font-family, sans-serif
+  font: $font-size/$main-line-height $main-font-family, sans-serif
   box-sizing: border-box
 
 body
-  background-color: #87509c
+  background-color: $white
 
 a, button
   cursor: pointer
@@ -16,11 +16,57 @@ a
   &:link, &:visited, &:hover, &:active
     text-decoration: none
 
-.nopadding
-  padding: 0
-
 input, textarea
   outline: none
 
+p
+  font-size: $font-size
+  line-height: $main-line-height
+  color: $font-color
+
+h1
+  font-size: $h1-font-size
+  color: $base-color
+
+h2
+  font-size: $h2-font-size
+  color: $base-color
+
+h3
+  font-size: $h3-font-size
+  color: $base-color
+  font-weight: $light
+
+h4
+  font-size: $h4-font-size
+  color: $base-color
+  font-weight: $normal
+
+h5
+  font-size: $h5-font-size
+  color: $base-color
+  text-transform: uppercase
+  font-weight: $bold
+
 .content
   animation: bounceInUp 1s
+
+.nopadding
+  padding: 0
+
+.clearfix:after
+  visibility: hidden
+  display: block
+  font-size: 0
+  content: " "
+  clear: both
+  height: 0
+
+.clearfix
+  display: inline-block
+
+* html .clearfix
+  height: 1%
+
+.clearfix
+  display: block

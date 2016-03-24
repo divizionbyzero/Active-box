@@ -1,0 +1,33 @@
+.nav
+  font-size: $nav-font-size
+  color: $white
+  text-transform: uppercase
+  height: 3 * $nav-font-size
+  line-height: 3
+  text-align: left
+  display: inline-block
+  &:hover
+    color: $white
+
+.big-title
+  font-size: 65px
+  text-transform: uppercase
+
+.btn
+  background-color: $brand-color
+  color: $white
+  font-size: $nav-font-size
+  font-weight: $semibold
+  border: 0
+  +border-radius(2px)
+  display: inline-block
+  text-transform: uppercase
+  height: 45px
+  padding: 0 50px
+  &:hover, &:focus
+    background-color: scale_color($brand-color, $lightness: -5%)
+    color: $white
+  &--large
+    padding: 15px 40px
+
+

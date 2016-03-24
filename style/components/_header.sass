@@ -1,3 +1,33 @@
 .header
+  background-image: url('../images/banner.jpg')
   &_container
     +animation(FadeIn 1s ease)
+  &_logo
+    float: left
+    display: inline-block
+  &_nav-container
+    clear: both
+    padding: 20px 0
+    border-bottom: 1px solid rgba(255,255,255, .2)
+  &_nav
+    float: right
+    &__item
+      @extend .nav
+      margin: 0 25px
+      &:last-child
+        margin-right: 0
+  &_title-container
+    margin: 150px 5% 40px
+    text-align: center
+  &__title
+    @extend .big-title
+    color: $white
+    font-weight: $semibold
+  &__subtitle
+    font-size: $h4-font-size
+    color: $white
+    text-align: center
+  &__button
+    @extend .btn
+    margin: 80px 0 150px
+

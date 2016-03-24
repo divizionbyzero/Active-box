@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg>
+<metadata>
+Created by FontForge 20120731 at Thu Mar 24 10:44:13 2016
+ By ,,,
+Copyright (c) 2014 by Jan Kovarik. All rights reserved.
+</metadata>
+<defs>
+<font id="GLYPHICONSHalflings-Regular" horiz-adv-x="440" >
+  <font-face 
+    font-family="GLYPHICONS Halflings"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="1200"
+    panose-1="0 0 5 0 0 0 0 0 0 0"
+    ascent="960"
+    descent="-240"
+    bbox="40 0 360 800"
+    underline-thickness="50"
+    underline-position="-50"
+  />
+<missing-glyph 
+d="M40 0v800h320v-800h-320zM80 40h240v720h-240v-720z" />
+    <glyph glyph-name=".notdef" 
+d="M40 0v800h320v-800h-320zM80 40h240v720h-240v-720z" />
+    <glyph glyph-name="glyph1" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="glyph2" horiz-adv-x="400" 
+ />
+    <glyph glyph-name="space" horiz-adv-x="1200" 
+ />
+  </font>
+</defs></svg>

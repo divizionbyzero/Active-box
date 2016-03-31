@@ -1,0 +1,29 @@
+.testimonials
+  background-color: #53354a
+  position: relative
+  padding: 0
+  &_blockquote
+    border: 0
+    margin: 0
+    padding: 60px 5% 0
+    &__text
+      color: #fff
+      font: italic 36px "Cardo", Georgia, "Times New Roman", serif
+    &__author
+      color: #fff
+      display: block
+      font-size: 13px
+      font-style: normal
+      font-weight: 600
+      margin-top: 30px
+      text-transform: uppercase
+
+@media screen and (max-width: $lg)
+  .testimonials_blockquote
+    padding: 40px 5% 0
+    &__text
+      font-size: 30px
+
+@media screen and (max-width: $md)
+  .testimonials_blockquote__text
+    font-size: 27px
